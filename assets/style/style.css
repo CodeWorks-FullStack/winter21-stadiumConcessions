@@ -1,0 +1,15 @@
+/* BASIC STYLES HERE */
+body{
+  min-height: 100vh;
+  background-image: url('https://mercedesbenzstadium.com/wp-content/uploads/2016/10/ConcessionStand-e1483039282895.jpg');
+  background-size: cover;
+  }
+
+  .footer-img{
+    max-height: 2vh;
+    max-width: 1vw;
+  }
+
+  /* .selectable{
+    cursor: pointer;
+  } */
